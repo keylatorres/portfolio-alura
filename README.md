@@ -7,9 +7,9 @@ Desenvolvimento de uma landing page proposta nos cursos de HTML e CSS da Alura. 
 https://github.com/user-attachments/assets/45bb88f6-3dee-4907-9454-c19d1e0d3de8
 
 ## Ferramentas utilizadas
-* HTML;
-* CSS;
-* Flex-box.
+* HTML
+* CSS
+* Flex-box
 
 ## Desenvolvido por:
 ### Keyla Torres
